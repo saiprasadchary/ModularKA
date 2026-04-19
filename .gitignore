@@ -10,6 +10,11 @@ __pycache__/
 .venv/
 venv/
 
-# Streamlit / local artifacts
+# Streamlit / local runtime files
 .streamlit/secrets.toml
 storage/
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
